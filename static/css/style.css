@@ -24,6 +24,8 @@
 .icon-playlistadd:before { content: "\ecae"; }
 .icon-delete:before { content: "\e61b"; }
 .icon-trophy:before { content: "\e80b"; }
+.icon-chat:before { content: "\ead0"; }
+.icon-favorite:before { content: "\eb4c"; }
 
 span {
     display: inline-block;
@@ -191,8 +193,8 @@ progress::-moz-progress-value {
     margin: 0 auto;
     margin-top:20px;
     margin-bottom: 10px;
-    background-image:url('https://avatars0.githubusercontent.com/u/21081491?v=3&s=460');
-    background-size: 120%;
+    background-image:url('https://raw.githubusercontent.com/jacktrane/CV/master/static/image/wuzeqiang.jpg');
+    background-size: 100%;
     background-position:center;
     border-radius:50%;
     border:5px solid #607d8b;
